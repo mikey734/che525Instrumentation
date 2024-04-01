@@ -32,6 +32,6 @@ FIT525A
 ![image](https://raw.githubusercontent.com/mikey734/che525Instrumentation/main/IMG_7558.jpg)
 
 PIT525A
-![image](
+![image](https://raw.githubusercontent.com/mikey734/che525Instrumentation/main/IMG_7556.jpg)
 
 
