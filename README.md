@@ -1,5 +1,5 @@
 # che525Instrumentation
-2024 CHE525 Instrumentation equipment 
+2024 CHE525 Instrumentation Equipment 
 
 Paul Durell 
 ![image](https://github.com/mikey734/che525Instrumentation/assets/165672197/8d6747cd-dffe-4d44-936a-ce9f02e33b39)
@@ -19,12 +19,11 @@ Table 1. Organizaiton of Instrumentation Equipment
 |**Model**        | N608C902000 |   N70027150AE | VC00140120E| 3 Wire Pt-100   |
 
 
+
 **Picture of Each Piece of Equipment:** 
 
 LIT525A
 ![image](https://raw.githubusercontent.com/mikey734/che525Instrumentation/main/IMG_7557.jpg)
-
-PIT525A
 
 TE525A
 ![image](https://raw.githubusercontent.com/mikey734/che525Instrumentation/main/IMG_7559.jpg)
