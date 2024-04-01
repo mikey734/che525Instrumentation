@@ -7,5 +7,5 @@ Table 1. Organizaiton of Instrumentation Equipment
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-!{image](https://raw.githubusercontent.com/mikey734/che525Instrumentation/main/IMG_7556.jpg)
-![image](https://github.com/mikey734/che525Instrumentation/assets/165672197/9f2eccf2-6bea-474a-bbcd-a3da710bb927)
+
+![image](https://raw.githubusercontent.com/mikey734/che525Instrumentation/main/IMG_7556.jpg)
