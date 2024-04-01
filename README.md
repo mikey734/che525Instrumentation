@@ -1,2 +1,2 @@
 # che525Instrumentation
-README.md
+2024 CHE525 Instrumentation equipment 
